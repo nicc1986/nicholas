@@ -30,7 +30,5 @@ echo user\Demo::hello().'<hr>';
 echo \app\admin\SITE_NAME.'<br>';
 echo \app\admin\getDomain().'<br>';
 echo \app\admin\Demo::hello().'<hr>';
-echo \app\admin\user\SITE_NAME.'<br>';
-echo \app\admin\user\getDomain().'<br>';
-echo \app\admin\user\Demo::hello().'<hr>';
+
 
