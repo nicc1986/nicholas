@@ -27,7 +27,7 @@ namespace app\admin;
 echo user\SITE_NAME.'<br>';
 echo user\getDomain().'<br>';
 echo user\Demo::hello().'<hr>';
-
+echo \app\admin\SITE_NAME.'<br>';
 echo \app\admin\getDomain().'<br>';
 echo \app\admin\Demo::hello().'<hr>';
 
